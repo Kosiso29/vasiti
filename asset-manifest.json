@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/vasiti/static/css/main.99f6d02c.chunk.css",
+    "main.js": "/vasiti/static/js/main.52ff9477.chunk.js",
+    "main.js.map": "/vasiti/static/js/main.52ff9477.chunk.js.map",
+    "runtime-main.js": "/vasiti/static/js/runtime-main.ced66874.js",
+    "runtime-main.js.map": "/vasiti/static/js/runtime-main.ced66874.js.map",
+    "static/js/2.ec1014b3.chunk.js": "/vasiti/static/js/2.ec1014b3.chunk.js",
+    "static/js/2.ec1014b3.chunk.js.map": "/vasiti/static/js/2.ec1014b3.chunk.js.map",
+    "static/js/3.eb7182c3.chunk.js": "/vasiti/static/js/3.eb7182c3.chunk.js",
+    "static/js/3.eb7182c3.chunk.js.map": "/vasiti/static/js/3.eb7182c3.chunk.js.map",
+    "index.html": "/vasiti/index.html",
+    "static/css/main.99f6d02c.chunk.css.map": "/vasiti/static/css/main.99f6d02c.chunk.css.map",
+    "static/js/2.ec1014b3.chunk.js.LICENSE.txt": "/vasiti/static/js/2.ec1014b3.chunk.js.LICENSE.txt",
+    "static/media/Customer1.c6bfedf1.png": "/vasiti/static/media/Customer1.c6bfedf1.png",
+    "static/media/Home.module.css": "/vasiti/static/media/womanMobile.67a0cc6a.svg",
+    "static/media/Mask.png": "/vasiti/static/media/Mask.4d47335c.png",
+    "static/media/woman.svg": "/vasiti/static/media/woman.265269b1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ced66874.js",
+    "static/js/2.ec1014b3.chunk.js",
+    "static/css/main.99f6d02c.chunk.css",
+    "static/js/main.52ff9477.chunk.js"
+  ]
+}
